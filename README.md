@@ -1,0 +1,1 @@
+# wildfire-area-recognition
